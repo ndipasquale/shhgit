@@ -16,10 +16,8 @@ Finding secrets in GitHub is nothing new. There are many great tools available t
 
 ## Installation
 
-You can use the [precompiled binaries](https://www.github.com/eth0izzle/shhgit/releases) **or** build from source:
-
 1. Install [Go](https://golang.org/doc/install) for your platform.
-2. `$ go get github.com/eth0izzle/shhgit` will download and build shhgit.
+2. `$ go get github.com/ndipasquale/shhgit` will download and build shhgit.
 3. See usage.
 
 ## Usage
