@@ -1,0 +1,2 @@
+# shhgit
+GitHub secrets discovery
